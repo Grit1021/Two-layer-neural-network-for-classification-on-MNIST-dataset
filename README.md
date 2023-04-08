@@ -68,4 +68,4 @@ nn = Network.load(r'mymodel.txt')
 
 - Dataset
 
-
+The MNIST dataset can be downloaded in the form of pkl.gz via https://academictorrents.com/details/323a0048d87ca79b68f12a6350a57776b6a3b7fb. It has been split into training set, validation set and test set with 50000,10000 and 10000 figures respectively.
