@@ -60,11 +60,10 @@ This Jupyter notebook gives a visualization of the training result and the whole
 
 - Model
 
-A trained model with 98.37% accuracy on the test dataset is available at the cloud drive with extracting password 'cvcv'.
+A trained model with 98.37% accuracy on the test dataset is available at the [cloud drive](https://pan.baidu.com/s/1wIt9RMwZCdqEtjD0jDOigA?pwd=cvcv) with extracting password 'cvcv'.
 
-Use the following code to load the model.
+Use the following code "nn = Network.load(r'mymodel.txt')" to load the model.
 
-nn = Network.load(r'mymodel.txt')
 
 - Dataset
 
