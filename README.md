@@ -71,4 +71,4 @@ The MNIST dataset can be downloaded in the form of pkl.gz via the [link](https:/
 
 - neural_network_pj1
 
-It gives the 
+It gives the detailed description of the task and the theory of the neural network. The visualization results are also involved in this file.
